@@ -72,13 +72,7 @@ statsmodels==0.14.2
 streamlit==1.36.0
 streamlit-dynamic-filters==0.1.6
 tenacity==8.4.2
-tensorboard==2.13.0
-tensorboard-data-server==0.7.2
-tensorboard-plugin-wit==1.8.1
 tensorflow==2.13.0
-tensorflow-estimator==2.13.0
-tensorflow-intel==2.13.0
-tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 threadpoolctl==3.5.0
 toml==0.10.2
