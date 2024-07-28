@@ -62,7 +62,6 @@ def generate_fourier(df):
 
     for household_id in all_household_ids:
         # get the household from the entire df
-        print("Household id:", household_id)
         singlehousehold_df = households_grp.get_group(household_id).sort_values(by='tstp', ascending=True)
 
         # split into train, test
